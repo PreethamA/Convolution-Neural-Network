@@ -1,4 +1,4 @@
-# MachineLearning
+# CNN
 
 Source code of CNN using Inception v3 architecture model
 
